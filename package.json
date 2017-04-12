@@ -1,0 +1,13 @@
+{
+  "name": "token-verification-jwks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jose.js",
+  "scripts": {
+    "start": "node jose.js"
+  },
+  "author": "",
+  "dependencies": {
+    "jose": "^0.3.2"
+  }
+}
